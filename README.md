@@ -4,8 +4,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dan_oliveira1k/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:4665danilo@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilo4665Oliveira&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo4665Oliveira&layout=compact)
+
 
 ## Tecnologias que utilizo e que estou em processo de aprendizado🚀
 
