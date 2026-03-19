@@ -30,4 +30,9 @@ Tenho 22 anos e estou atualmente estudando Análise e Desenvolvimento de Sistema
 <h2>🚀 &nbsp;My GitHub Stats</h2>
 
 ![Danilo Oliveira GitHub Stats](https://github-readme-stats.vercel.app/api?username=danilo4665oliveira&show_icons=true&theme=dracula)
-![Snake animation](https://github.com/Danilo4665Oliveira/Danilo4665Oliveira/blob/output/github-snake.svg)
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danilo4665Oliveira/Danilo4665Oliveira/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danilo4665Oliveira/Danilo4665Oliveira/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Danilo4665Oliveira/Danilo4665Oliveira/output/github-contribution-grid-snake.svg">
+</picture>
